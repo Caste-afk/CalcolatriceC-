@@ -9,3 +9,13 @@ C:\Users\10933991\Desktop\C#\window\prova3\prova3\bin\Debug\prova3.exe
 C:\Users\10933991\Desktop\C#\window\prova3\prova3\bin\Debug\prova3.pdb
 C:\Users\10933991\Desktop\C#\window\prova3\prova3\obj\Debug\prova3.exe
 C:\Users\10933991\Desktop\C#\window\prova3\prova3\obj\Debug\prova3.pdb
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\CalcolatriceC-\prova3\prova3\bin\Debug\prova3.exe.config
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\CalcolatriceC-\prova3\prova3\bin\Debug\prova3.exe
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\CalcolatriceC-\prova3\prova3\bin\Debug\prova3.pdb
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\CalcolatriceC-\prova3\prova3\obj\Debug\prova3.csproj.AssemblyReference.cache
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\CalcolatriceC-\prova3\prova3\obj\Debug\prova3.Form1.resources
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\CalcolatriceC-\prova3\prova3\obj\Debug\prova3.Properties.Resources.resources
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\CalcolatriceC-\prova3\prova3\obj\Debug\prova3.csproj.GenerateResource.cache
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\CalcolatriceC-\prova3\prova3\obj\Debug\prova3.csproj.CoreCompileInputs.cache
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\CalcolatriceC-\prova3\prova3\obj\Debug\prova3.exe
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\CalcolatriceC-\prova3\prova3\obj\Debug\prova3.pdb

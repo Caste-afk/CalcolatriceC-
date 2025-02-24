@@ -27,64 +27,52 @@ namespace prova3
 
         }
 
-        private void button5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btn3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btn6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btn9_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btn5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btn8_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btn7_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btn4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnCancella_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void btn0_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void btnUguale_Click(object sender, EventArgs e)
+        private void btn1_Click(object sender, EventArgs e)
         {
-
+            int n = 1;
         }
 
-        private void btnDivisione_Click(object sender, EventArgs e)
+        private void btn2_Click(object sender, EventArgs e)
         {
+            int n = 2;
+        }
 
+        private void btn3_Click(object sender, EventArgs e)
+        {
+            int n = 3;
+        }
+
+        private void btn4_Click(object sender, EventArgs e)
+        {
+            int n = 4;
+        }
+        private void btn5_Click(object sender, EventArgs e)
+        {
+            int n = 5;
+        }
+
+        private void btn6_Click(object sender, EventArgs e)
+        {
+            int n = 6;
+        }
+
+        private void btn7_Click(object sender, EventArgs e)
+        {
+            int n = 7;
+        }
+        private void btn8_Click(object sender, EventArgs e)
+        {
+            int n = 8;
+        }
+
+        private void btn9_Click(object sender, EventArgs e)
+        {
+            int n = 9;
         }
 
         private void btnSomma_Click(object sender, EventArgs e)
@@ -102,9 +90,24 @@ namespace prova3
 
         }
 
+        private void btnDivisione_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void btnCancella_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnUguale_Click(object sender, EventArgs e)
+        {
+
+        }
         private void label1_Click(object sender, EventArgs e)
         {
 
         }
+
+
     }
 }

@@ -56,6 +56,7 @@
             this.btn1.TabIndex = 0;
             this.btn1.Text = "1";
             this.btn1.UseVisualStyleBackColor = true;
+            this.btn1.Click += new System.EventHandler(this.btn1_Click);
             // 
             // lbl_testo
             // 
@@ -111,10 +112,9 @@
             this.btn2.Location = new System.Drawing.Point(133, 295);
             this.btn2.Name = "btn2";
             this.btn2.Size = new System.Drawing.Size(60, 60);
-            this.btn2.TabIndex = 2;
+            this.btn2.TabIndex = 18;
             this.btn2.Text = "2";
-            this.btn2.UseVisualStyleBackColor = true;
-            this.btn2.Click += new System.EventHandler(this.button5_Click);
+            this.btn2.Click += new System.EventHandler(this.btn2_Click);
             // 
             // btn9
             // 
