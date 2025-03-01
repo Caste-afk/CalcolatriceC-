@@ -29,50 +29,60 @@ namespace prova3
 
         private void btn0_Click(object sender, EventArgs e)
         {
-
+            int n = 0;
+            aggnum(n);
         }
 
         private void btn1_Click(object sender, EventArgs e)
         {
             int n = 1;
+            aggnum(n);
         }
 
         private void btn2_Click(object sender, EventArgs e)
         {
             int n = 2;
+            aggnum(n);
         }
 
         private void btn3_Click(object sender, EventArgs e)
         {
             int n = 3;
+            aggnum(n);
         }
 
         private void btn4_Click(object sender, EventArgs e)
         {
             int n = 4;
+            aggnum(n);
         }
         private void btn5_Click(object sender, EventArgs e)
         {
             int n = 5;
+            aggnum(n);
         }
 
         private void btn6_Click(object sender, EventArgs e)
         {
             int n = 6;
+            aggnum(n);
         }
 
         private void btn7_Click(object sender, EventArgs e)
         {
             int n = 7;
+            aggnum(n);
         }
         private void btn8_Click(object sender, EventArgs e)
         {
             int n = 8;
+            aggnum(n);
         }
 
         private void btn9_Click(object sender, EventArgs e)
         {
             int n = 9;
+            aggnum(n);
         }
 
         private void btnSomma_Click(object sender, EventArgs e)
@@ -108,6 +118,10 @@ namespace prova3
 
         }
 
+        private void aggnum(int n)
+        {
+            lbl_testo.Text += n.ToString();
+        }
 
     }
 }

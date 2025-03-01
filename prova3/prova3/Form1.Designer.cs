@@ -65,7 +65,6 @@
             this.lbl_testo.Name = "lbl_testo";
             this.lbl_testo.Size = new System.Drawing.Size(349, 30);
             this.lbl_testo.TabIndex = 1;
-            this.lbl_testo.Text = "Calcolo";
             // 
             // btn4
             // 
@@ -222,7 +221,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(352, 107);
             this.label1.TabIndex = 17;
-            this.label1.Text = "Storico";
+            this.label1.Text = "";
             // 
             // Form1
             // 
